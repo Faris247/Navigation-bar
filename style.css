@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: "Baloo Tamma 2", sans-serif;
+    background: #cce1ed;
+}
+
+/* Full width navbar */
+.navigation {
+    background: #bd1c1c;
+    border-top: 2px solid #f2a900;
+    padding: 12px 40px !important;
+}
+
+/* Logo */
+.brand-logo {
+    height: 26px;
+    width: auto;
+}
+
+/* Links */
+.navigation-link {
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff !important;
+}
+
+.navigation-link:hover {
+    color: #221b0b !important;
+    font-weight:bold;
+}
+.head{
+    color:yellow;
+    font-size:30px;
+    font-family:italic;
+
+}
